@@ -4,7 +4,7 @@
 
 **CODSOFT is a dynamic community focused on leadership development, learning, and student engagement. We provide platforms and resources like mentorship programs, workshops, and collaborative projects to empower individuals to take on leadership roles and drive positive change.  [website link](https://www.codsoft.in)**
 
-# TASK 1
+# TASK 1 : NUMBER GAME
 
 1. Generate a random number within a specified range, such as 1 to 100.
 
